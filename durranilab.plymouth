@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=durranilab
+Description=Durrani Lab Logo
+Comment=created By Musaddiq Durrani (@durranilab)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/durranilab
+ScriptFile=/usr/share/plymouth/themes/durranilab/durranilab.script
